@@ -15,6 +15,8 @@ http://www.cisst.org/cisst/license.txt.
 
 --- end cisst license ---
 */
+#include <ros/ros.h>
+#include <ros/init.h>
 
 #include <cisstCommon/cmnPath.h>
 #include <cisstCommon/cmnUnits.h>
